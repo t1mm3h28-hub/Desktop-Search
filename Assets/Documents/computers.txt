@@ -1,0 +1,4 @@
+Computers process data using processors and memory.
+Modern computers use fast CPUs and graphics processors.
+Computer science studies algorithms and software systems.
+Artificial intelligence is an important area of computer science.
